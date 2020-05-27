@@ -1,4 +1,6 @@
 # Alice-LG - Your friendly looking glass
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Falice-lg.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Falice-lg?ref=badge_shield)
+
 __"No, no! The adventures first, explanations take such a dreadful time."__  
 _Lewis Carroll, Alice's Adventures in Wonderland & Through the Looking-Glass_
 
@@ -206,3 +208,7 @@ The development of Alice is now sponsored by
 </p>
 
 Many thanks go out to [ECIX](https://www.ecix.net), where this project originated and was backed over the last two years.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Falice-lg.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Falice-lg?ref=badge_large)
